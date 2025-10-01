@@ -1,2 +1,3 @@
 print("add=",5+2)
 print("difference=",5-2)
+print("product=",5*2)
